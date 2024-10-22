@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/require-await */
 import express from "express";
 import { nextApp, nextHandler } from "./next-utils";
 import { getPayloadClient } from "./payload";
